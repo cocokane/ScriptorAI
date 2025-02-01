@@ -2,8 +2,12 @@
 
 ## Phase 1: Interactive Semantic Exploration
 **Core Features**  
+- **Drag and drop PDFs**:  
+  Upload research papers or drag-and-drop readable PDFs for analysis.
+- **Commenting and Highlighting**:  
+  Annotate sections with personal notes or comments.
 - **Smart Heatmaps**:  
-  Highlight sections by topic using preset color palettes (e.g., blues, reds, greens). Relevance intensity scales from light (low) to dark (high).  
+  AI highlights sections by topic using preset color palettes (e.g., blues, reds, greens). Relevance intensity scales from light (low) to dark (high).  
 - **Instant Summaries**:  
   For sections with >90% relevance score, display AI-generated summaries in 4-5 words (e.g., *"Proposes AlphaFold model for protein folding"*).  
 - **DOI-to-Paper**:  
@@ -19,6 +23,8 @@
 
 ## Phase 2: Structured Knowledge Assembly  
 **Core Features**  
+  - **PDF-to-Text**:  
+    Convert PDFs to searchable text.
 - **Drag-and-Drop Guides**:  
   Organize highlights/images into study guides. Rearrange blocks to match your narrative flow.  
 - **Auto-Citation**:  
