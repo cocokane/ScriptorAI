@@ -1,11 +1,11 @@
-# Reader.ai Roadmap
+# Scriptor.ai Roadmap
 
 ## Phase 1: Interactive Semantic Exploration
 **Core Features**  
 - **Smart Heatmaps**:  
   Highlight sections by topic using preset color palettes (e.g., blues, reds, greens). Relevance intensity scales from light (low) to dark (high).  
 - **Instant Summaries**:  
-  For sections with >90% relevance score, display AI-generated summaries (e.g., *"Proposes MACE model for protein folding"*).  
+  For sections with >90% relevance score, display AI-generated summaries in 4-5 words (e.g., *"Proposes AlphaFold model for protein folding"*).  
 - **DOI-to-Paper**:  
   Enter a DOI to auto-fetch open-access PDFs with preserved formatting.  
 
@@ -22,7 +22,7 @@
 - **Drag-and-Drop Guides**:  
   Organize highlights/images into study guides. Rearrange blocks to match your narrative flow.  
 - **Auto-Citation**:  
-  Exported guides include original paper citations (e.g., *"Source: Zhang et al. 2023, p.12"*).  
+  Exported sections include original paper citations. For a particular section snippet, if there is a citation, it will be picked up and added automatically (e.g., *"Source: Zhang et al. 2023, p.12"*).  
 - **Multi-Format Export**:  
   Save as Markdown (for notes) or LaTeX-ready PDF (for academic reuse).  
 
