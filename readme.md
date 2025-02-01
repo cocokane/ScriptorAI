@@ -1,14 +1,14 @@
 # Scriptor.ai Roadmap
 
-## Phase 1: Interactive Semantic Exploration
+## Phase 1: Heatmap based AI PDF Annotation
 **Core Features**  
 - **Drag and drop PDFs**:  
   Upload research papers or drag-and-drop readable PDFs for analysis.
 - **Commenting and Highlighting**:  
-  Annotate sections with personal notes or comments.
-- **Smart Heatmaps**:  
+  Annotate sections with highlighting or comments.
+- **AI highlight Heatmaps**:  
   AI highlights sections by topic using preset color palettes (e.g., blues, reds, greens). Relevance intensity scales from light (low) to dark (high).  
-- **Instant Summaries**:  
+- **5-word paragraph summaries**:  
   For sections with >90% relevance score, display AI-generated summaries in 4-5 words (e.g., *"Proposes AlphaFold model for protein folding"*).  
 - **DOI-to-Paper**:  
   Enter a DOI to auto-fetch open-access PDFs with preserved formatting.  
